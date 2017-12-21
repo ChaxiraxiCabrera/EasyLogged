@@ -3,16 +3,18 @@ This project's about a manager of Firebase database. You can register and login 
 And you could switch between user logged and user unlogged interfaces.  Show and hide elements depends on the state.
 All this with a simple implementation.  You only need sing up in firebase, copy his implementation code and follow the indication imports below.
 
-
-
 ## Project integration
 
+### Activate Firebase database
+The documentation is coming meanwhile you can see [here](https://docs.google.com/document/d/1r3ESzwPzDod8O4sOu9ul_FMaImb87nYWPPqEpyolf0o/edit?usp=sharing) the steps.
+
 ### Imports
+Download this project in a folder called easy-modal.
 
 ```
-<script src="node_modules/easy-modal/app.js"></script>
-<script src="node_modules/easy-modal/firebaseProvider.factory.js"></script>
-<script src="node_modules/easy-modal/register.component.js"></script>
+<script src="your-directory/easy-modal/app.js"></script>
+<script src="your-directory/easy-modal/firebaseProvider.factory.js"></script>
+<script src="your-directory/easy-modal/register.component.js"></script>
 ```
 
 ### Imports Required
@@ -63,8 +65,6 @@ integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh
 
 <easy-modal-component></easy-modal-component>
  ```  
-
-
 
 ### Login Modal
 
