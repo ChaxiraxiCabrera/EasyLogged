@@ -1,4 +1,9 @@
 # EasyLogged
+This project's about a manager of Firebase database. You can register and login users and save their data. Also, you can save other types of data and be managing it. 
+And you could switch between user logged and user unlogged interfaces.  Show and hide elements depends on the state.
+All this with a simple implementation.  You only need sing up in firebase, copy his implementation code and follow the indication imports below.
+
+
 
 ## Project integration
 
