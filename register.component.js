@@ -1,5 +1,5 @@
 angular.module('EasyModal')
-    .component('registerComponent', {
+    .component('easyLogModal', {
         templateUrl: 'node_modules/easy-modal/register.html',
         controller: controller,
         controllerAs: 'registerComponent',
