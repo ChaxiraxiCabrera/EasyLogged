@@ -98,6 +98,7 @@ Here there are an example:
 - Create a component to log in.
 - Create a component to log out.
 - Hard refactoring
+- Compress in a single file
 
 ## Copyright and License
 
