@@ -13,11 +13,11 @@
                 <div class="mail-register">
                     <form name="registerComponent.registerForm">
                         <div class="form-group form-group-lg">
-                            <input type="email" class="form-control input-lg" id="userMail" placeholder="Email" ng-model="registerComponent.newUser.email"
+                            <input type="email" class="form-control input-lg" placeholder="Email" ng-model="registerComponent.newUser.email"
                                 ng-required="true">
                         </div>
                         <div class="form-group form-group-lg">
-                            <input type="password" class="form-control input-lg" id="userPass" placeholder="Password" ng-model="registerComponent.newUser.password"
+                            <input type="password" class="form-control input-lg" placeholder="Password" ng-model="registerComponent.newUser.password"
                                 ng-required="true" ng-minlength="6">
                         </div>
                         <button data-toggle="modal" data-target="#registerComponent" ng-click="registerComponent.registerNewUser()" class="btn btn-primary btn-lg btn-block" ng-disabled="registerComponent.registerForm.$invalid">Register</button>
@@ -76,6 +76,3 @@
         </div>
     </div>
 </div>
-
-<button easy-log="in" ng-click="registerComponent.singOut()">sing out</button>
-<button ng-click="registerComponent.updateItem()">create</button>
