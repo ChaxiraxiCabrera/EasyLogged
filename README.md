@@ -18,13 +18,13 @@ All this with a simple implementation.  You only need sing up in firebase, copy 
 ### Imports Required
 
 ```
+<!-- JQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 <!-- Boostrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
 integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-<!-- JQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <!-- AngularJS -->
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
@@ -98,10 +98,10 @@ Here there are an example:
     - getItem
     - setItem
     - updateItem
-- Create a directive to change interface view between user logged and user unlogged.
-- Create a component to register.
-- Create a component to log in.
-- Create a component to log out.
+- ~~ Create a directive to change interface view between user logged and user unlogged.~~
+- Create a component to sing up.
+- Create a component to login.
+- Create a component to logout.
 - Hard refactoring
 - Compress in a single file
 
