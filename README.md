@@ -80,6 +80,10 @@ Here there are an example:
 </nav>
 ```
 
+## Issues
+- Maybe you have some problems with the register.component.js, specifically with 'templateUrl' because at the moment you need to change this value in register.component.js.
+
+## Roat Map
 
 ## Copyright and License
 
