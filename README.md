@@ -83,7 +83,14 @@ Here there are an example:
 ## Issues
 - Maybe you have some problems with the register.component.js, specifically with 'templateUrl' because at the moment you need to change this value in register.component.js.
 
-## Roat Map
+## Road Map
+- Create a factory to simplify the Firebase connection.
+- Create the documentation to use the methods of Firebase factory.
+- Create a directive to change interface view between user logged and user unlogged.
+- Create a component to register.
+- Create a component to log in.
+- Create a component to log out.
+- Hard refactoring
 
 ## Copyright and License
 
