@@ -88,6 +88,11 @@ Here there are an example:
 ## Road Map
 - Create a factory to simplify the Firebase connection.
 - Create the documentation to use the methods of Firebase factory.
+    - createDataUser
+    - updateDataUser
+    - getItem
+    - setItem
+    - updateItem
 - Create a directive to change interface view between user logged and user unlogged.
 - Create a component to register.
 - Create a component to log in.
