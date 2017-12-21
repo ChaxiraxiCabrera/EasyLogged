@@ -73,11 +73,11 @@ integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh
 The directive easy-log it's like a switch you can change between the interface with user logged and user unlogged. To show the interface with user logged, you will need add easy-log="in" in the html element. On the other hand, if you want see the user unlogged interface, you will need add easy-log="out" in the html element.
 Here there are an example:
 ```
-<div class="nav">
+<nav>
     <button class="btn btn-sing" easy-log="in">Log out</button>
     <button class="btn btn-sing" easy-log="out">Sing In</button>
     <button class="btn btn-sing" easy-log="out">Sing Up</button>
-</div>
+</nav>
 ```
 
 
