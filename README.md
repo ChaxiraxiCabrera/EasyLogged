@@ -23,7 +23,7 @@ integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
 <script src="node_modules/easy-modal/app.js"></script>
 
-<!-- Firebase -->
+<!-- Your Firebase implementation -->
 <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
 <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase-auth.js"></script>
