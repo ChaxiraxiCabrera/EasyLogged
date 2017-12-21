@@ -6,6 +6,8 @@
 
 ```
 <script src="node_modules/easy-modal/app.js"></script>
+<script src="node_modules/easy-modal/firebaseProvider.factory.js"></script>
+<script src="node_modules/easy-modal/register.component.js"></script>
 ```
 
 ### Imports Required
