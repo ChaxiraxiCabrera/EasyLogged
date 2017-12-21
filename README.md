@@ -91,15 +91,15 @@ Here there are an example:
 - Maybe you have some problems with the register.component.js, specifically with 'templateUrl' because at the moment you need to change this value in register.component.js.
 
 ## Road Map
-- Create a factory to simplify the Firebase connection.
+- ~~Create a factory to simplify the Firebase connection.~~
 - Create the documentation to use the methods of Firebase factory.
     - createDataUser
     - updateDataUser
     - getItem
     - setItem
     - updateItem
-- ~~ Create a directive to change interface view between user logged and user unlogged.~~
-- Create a component to sing up.
+- ~~Create a directive to change interface view between user logged and user unlogged.~~
+- ~~Create a component to sing up.~~
 - Create a component to login.
 - Create a component to logout.
 - Hard refactoring
